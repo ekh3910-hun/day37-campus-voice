@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+psycopg[binary]
+numpy
+faster-whisper
+av
+edge-tts
